@@ -3,6 +3,8 @@
 and maintaining projects. Adept at learning, unlearning, and relearning. Demonstrate the capability of managing
 clean, elegant and efficient code. Highly skilled in collaboration, decision-making,
 and DS & Algo.</h3>
+<h5>Linkedin: https://www.linkedin.com/in/abhishek-singh-057b781a6/ </h5>
+<h5>Portfolio: https://portfolio-phi-rouge.vercel.app/ </h5>
 
 <p align= "center">
 
