@@ -60,10 +60,6 @@ and DS & Algo.</h3>
 <br/>
 <br/>
 
-<a href="https://github.com/Abhishekkp42/github-readme-activity-graph"><img alt="Abhishek Singh's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Abhishekkp42&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
 ## Connect with me:
 
 <p align="left">
